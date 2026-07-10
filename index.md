@@ -1,18 +1,28 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
-# PHCubers
+Welcome to the example site for the **Practical Club Website Template**.
 
-Website for PH Cubing Club
+This site demonstrates the core features available in the theme.
 
-活动教室: 215
+## Features Showcase
 
-活动时间不固定
+*   [Markdown Styling]({% link features/markdown.md %}) - See how standard Markdown elements are rendered.
+*   [Table of Contents]({% link features/toc.md %}) - View the automatic TOC generation for long pages.
+*   [Redirect Page]({% link features/redirect.md %}) - Test the client-side redirect layout.
 
-[Learn to solve the Rubik's cube with this simple guide](https://i.redd.it/1e10lesgul581.jpg)
+## Installation
 
-[The best Roux method YouTube channel](https://www.youtube.com/@Kian_Mansour)
+To use this theme in your site, add this to your `Gemfile`:
 
-[Check out all resources here](/resources/)
+```ruby
+gem "practical-club-website-template", git: "https://github.com/Daniel-42-z/practical-club-website-template.git"
+```
+
+And in your `_config.yml`:
+
+```yaml
+theme: practical-club-website-template
+```
