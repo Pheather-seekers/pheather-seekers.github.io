@@ -1,0 +1,30 @@
+theme: practical-club-website-template
+title: PHCubers
+description: Website for PHCubers
+url: "https://phcubers.github.io"
+
+minima:
+  skin: auto
+  nav_pages:
+    - index.md
+    - notes.md
+    - resources.md
+    - ph-ormula.md
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+kramdown:
+  math_engine: mathjax
+  input: GFM
+
+exclude:
+  - README.md
+  - GEMINI.md
+  - _site/
+  - .sass-cache/
+  - .jekyll-cache/
+  - .jekyll-metadata
+  - .bundle/
+  - Gemfile.lock
