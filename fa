@@ -1,0 +1,101 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 95832db..786c3c3 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,90 +1,5 @@[m
+[31m-# PHCubers.github.io[m
+[31m-[m
+[31m-## 1. Quick Start (for organization members)[m
+[31m-[m
+[31m-This project uses [Nix](https://nixos.org/download/) to manage the development environment. This ensures everyone uses the same version of Ruby and Jekyll on Linux, macOS, and Windows (via WSL2).[m
+[31m-[m
+[31m-```bash[m
+[31m-# 1 · Install Nix (if not already installed)[m
+[31m-# The recommended installer for Linux, macOS, and WSL2:[m
+[31m-curl -sSfL https://artifacts.nixos.org/nix-installer | sh -s -- install[m
+[31m-[m
+[31m-# 2 · Clone this repository[m
+[31m-git clone https://github.com/PHCubers/phcubers.github.io[m
+[31m-cd phcubers.github.io[m
+[31m-[m
+[31m-# 3 · Enter the development environment[m
+[31m-nix develop[m
+[31m-[m
+[31m-[m
+[31m-# 4 · Launch local server (no 'bundle exec' required)[m
+[31m-jekyll serve[m
+[31m-```[m
+[31m-[m
+[31m-The site recompiles automatically when you save files and is served at <http://localhost:4000>.[m
+[31m-[m
+[31m----[m
+[31m-[m
+[31m-## 2. Adding a New Page[m
+[31m-[m
+[31m-1. **Create a Markdown file** inside the project root.[m
+[31m-[m
+[31m-   Filename = slug (e.g. `my-topic.md`).[m
+[31m-[m
+[31m-2. **Front matter template**[m
+[31m-[m
+[31m-   ```[m
+[31m-   ---[m
+[31m-   layout: page          # keep as “page” so Minima uses the full-width layout[m
+[31m-   title:  "My Topic"    # displayed in browser tab and h1[m
+[31m-   permalink: /my-topic/ # clean URL → http://…/my-topic/[m
+[31m-   ---[m
+[31m-   ```[m
+[31m-[m
+[31m-3. **Write content** below the front matter in regular Markdown.[m
+[31m-[m
+[31m-4. **Decide whether it appears in the top-right navigation**[m
+[31m-   - Header links are listed manually in `_config.yml → header_pages:`.[m
+[31m-   - To **show** the page, add its filename there.[m
+[31m-   - To **hide** the page, do nothing; the page is still reachable via its permalink.[m
+[31m-[m
+[31m----[m
+[31m-[m
+[31m-## 3. Images & Downloads[m
+[31m-[m
+[31m-- Put assets in `images/` and link relatively: `![Alt text](/images/diagram.png){: width="60%"}`[m
+[31m-[m
+[31m-- Large binaries (PDFs, ZIPs) go in `files/` to keep the repo lean, but for non-embedded files it is recommended to use a link to an external website for download[m
+[31m-[m
+[31m----[m
+[31m-[m
+[31m-## 4. Working Branches & Deployment[m
+[31m-[m
+[31m-1. **Work on feature branches**: `git checkout -b my-feature`[m
+[31m-2. **Test locally**: Always run `jekyll serve` inside `nix develop` and verify your changes work.[m
+[31m-3. **Commit logically**: `git add file.md; git commit -am "Add My Topic page"`[m
+[31m-4. **Push your branch**: `git push origin my-feature`[m
+[31m-5. **Merge when ready**: `git checkout main; git merge my-feature; git push origin main`[m
+[31m-6. **Deploy automatically**: GitHub Pages builds and deploys within ~10 minutes after pushing to `main`.[m
+[31m-[m
+[31m-**Note**: You can also work directly on `main` for small changes, but use branches for substantial additions to avoid breaking the live site.[m
+[31m-[m
+[31m----[m
+[31m-[m
+[31m-## 5. Troubleshooting[m
+[31m-[m
+[31m-| Symptom                           | Fix                                                                    |[m
+[31m-| --------------------------------- | ---------------------------------------------------------------------- |[m
+[31m-| `nix` command not found           | Ensure Nix is installed and added to your PATH.                        |[m
+[31m-| Infinite Sass “import loop” error | Never name files `_sass/minima.scss`; instead edit `assets/main.scss`. |[m
+[31m-| 404 on a link                     | Link to `/my-topic/` or `my-topic.html`, **not** `my-topic.md`.        |[m
+[31m-[m
+[31m----[m
+[31m-[m
+[31m-## 6. Housekeeping Rules[m
+[31m-[m
+[31m-- `_site/`, `.gem/`, `.bundle/`, `Gemfile.lock`, caches, etc. are already in `.gitignore`; **do not commit them**.[m
+[31m-- `README.md` is excluded from the published site via `_config.yml → exclude:`.[m
+[31m-- Keep line length ≤ 100 chars so diffs stay readable.[m
+[31m-[m
+[31m-Happy writing![m
+[32m+[m[32m# Pheather seekers[m
+[32m+[m[32m### The birdwatching club of Jinding, Pinghe.[m
+[32m+[m[32m#### Founder & Leader of 2025 & Website creator: Flameplusduck978[m
+[32m+[m[32m#### Technical support: Daniel-42-z[m
+[32m+[m[32m##### (Leader of 2026 isn't here yet XD)[m
+\ No newline at end of file[m

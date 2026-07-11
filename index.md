@@ -3,26 +3,25 @@ layout: home
 title: Home
 ---
 
-Welcome to the example site for the **Practical Club Website Template**.
+Welcome to the website for the **Pheather seekers**.
 
-This site demonstrates the core features available in the theme.
+Pheather seekers, as a birdwatching club, founded in October, 2025, focuses on all sort of things related to birds.
 
-## Features Showcase
+## Schedule of club activities
+**Pending**
 
-*   [Markdown Styling]({% link features/markdown.md %}) - See how standard Markdown elements are rendered.
-*   [Table of Contents]({% link features/toc.md %}) - View the automatic TOC generation for long pages.
-*   [Redirect Page]({% link features/redirect.md %}) - Test the client-side redirect layout.
+Usual classroom: 216
 
-## Installation
+Usual frequency: Once a month
 
-To use this theme in your site, add this to your `Gemfile`:
+*In order to fit in the demand of CAS, the club has, at least fakingly, claiming to have activities every month.*
 
-```ruby
-gem "practical-club-website-template", git: "https://github.com/Daniel-42-z/practical-club-website-template.git"
-```
+*The founder of the club & leader of 2025 would provide resources, mainly PPTs, monthly until May, 2027*
 
-And in your `_config.yml`:
+*(To make sure she has enough CAS to write about)*
 
-```yaml
-theme: practical-club-website-template
+
+## Get connected!
+
+To join this club, search and add **beautifulday2017** in WeChat
 ```
