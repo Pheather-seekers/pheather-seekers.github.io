@@ -23,5 +23,4 @@ Usual frequency: Once a month
 
 ## Get connected!
 
-To join this club, search and add **beautifulday2017** in WeChat
-```
+To join this club, search and add ***beautifulday2017*** in WeChat.
