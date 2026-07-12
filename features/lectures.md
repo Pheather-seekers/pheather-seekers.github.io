@@ -4,11 +4,14 @@ title: Lectures
 permalink: /resources/lectures
 ---
 
-This page demonstrates how various Markdown elements are rendered by the theme.
-
+Contents of monthly lectures available here
 ---
 ### lectures
 ***(Updated to 2026.6)***
+
+[2026.3 上海市区常见鸟种的变迁](https://pheather-seekers.github.io/resources/lectures/202603)
+
+[2026.4 关于巢寄生--以杜鹃为例]()
 
 [//]: list links here！ 
 
