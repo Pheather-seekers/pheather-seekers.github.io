@@ -14,6 +14,9 @@ plugins:
 minima:
   skin: auto
   nav_pages:
+    - index.md
+    - features/lectures.md
+    - features/markdown.md
   social_links:
     - title: GitHub
       icon: github
