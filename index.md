@@ -5,7 +5,7 @@ title: Home
 
 Welcome to the website for the **Pheather seekers**.
 
-Pheather seekers, as a birdwatching club, founded in October, 2025, focuses on all sort of things related to birds.
+Pheather seekers, as a birdwatching club, found in October, 2025, focuses on all sort of things related to birds.
 
 ## Schedule of club activities
 **Pending**
