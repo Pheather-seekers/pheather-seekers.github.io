@@ -24,15 +24,15 @@ Contents of monthly lectures available here
 
 Go join:
 
-https://www.reddit.com/r/Birdsfacingforward/
+[r/Birdsfacingfoward](https://www.reddit.com/r/Birdsfacingforward/)
 
-https://www.reddit.com/r/AlwaysANightHeron/
+[r/AlwaysANightHeron](https://www.reddit.com/r/AlwaysANightHeron/)
 
-https://www.reddit.com/r/Ornithology/
+[r/Ornithology](https://www.reddit.com/r/Ornithology/)
 
 And be careful with:
 
-https://www.reddit.com/r/BirdsArentReal/
+[r/BirdsArentReal](https://www.reddit.com/r/BirdsArentReal/)
 
 
 ### Q&A
