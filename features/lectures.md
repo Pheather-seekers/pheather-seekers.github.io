@@ -22,7 +22,13 @@ Contents of monthly lectures available here
 
 ### Useful links
 
-[//]: list links here
+Go join:
+https://www.reddit.com/r/Birdsfacingforward/
+https://www.reddit.com/r/AlwaysANightHeron/
+https://www.reddit.com/r/Ornithology/
+And be careful with:
+https://www.reddit.com/r/BirdsArentReal/
+
 
 ### Q&A
 
