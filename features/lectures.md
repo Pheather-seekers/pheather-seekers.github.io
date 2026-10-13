@@ -23,6 +23,7 @@ Contents of monthly lectures available here
 ### Useful links
 
 Go join:
+
 https://www.reddit.com/r/Birdsfacingforward/
 
 https://www.reddit.com/r/AlwaysANightHeron/
