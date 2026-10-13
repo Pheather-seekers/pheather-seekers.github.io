@@ -17,6 +17,8 @@ Contents of monthly lectures available here
 
 [2026.6 鸟类的雌雄外貌差距究竟从何而来？](/resources/lectures/202606)
 
+[2026.7 鸟喙的多样性以及其合理性](/resources/lectures/202607)
+
 [//]: list links here！ 
 
 
