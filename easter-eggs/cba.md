@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Club of Bird Aficionados
-permalink: /easter-eggs/cba
+permalink: /easter-eggs/cba/
 ---
 
 # **Crazy Bird Aficionados**

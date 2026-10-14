@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Lectures
-permalink: /resources/lectures
+title: Resources
+permalink: /resources/
 ---
 
-Contents of monthly lectures available here
----
+## Contents of monthly lectures available here
+
 ### lectures
-***(Updated to 2026.6)***
+
+_**(Updated to 2026.6)**_
 
 [2026.3 上海市区常见鸟种的变迁](/resources/lectures/202603)
 
@@ -19,8 +20,7 @@ Contents of monthly lectures available here
 
 [2026.7 鸟喙的多样性以及其合理性](/resources/lectures/202607)
 
-[//]: list links here！ 
-
+[//]: list links here！
 
 ### Useful links
 
@@ -36,13 +36,9 @@ And be careful with:
 
 [r/BirdsArentReal](https://www.reddit.com/r/BirdsArentReal/)
 
-
 ### Q&A
 
 [//]: one link to another markdown
-
-
-
 
 <div style= "display:none">
 ## Links and Images
@@ -50,4 +46,3 @@ And be careful with:
 [Link to Google](https://google.com)
 
 ![](https://archlinux.org/static/logos/archlinux-logo-light-1200dpi.png){: width="50%"}
-

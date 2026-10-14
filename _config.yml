@@ -15,9 +15,8 @@ minima:
   skin: auto
   nav_pages:
     - index.md
-    - features/lectures.md
-    - features/markdown.md
+    - resources.md
   social_links:
     - title: GitHub
       icon: github
-      url: https://github.com/Daniel-42-z/practical-club-website-template
+      url: https://github.com/Pheather-seekers/pheather-seekers.github.io
