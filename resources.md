@@ -8,7 +8,7 @@ permalink: /resources/
 
 ### lectures
 
-_**(Updated to 2026.6)**_
+_**(Updated to 2026.8)**_
 
 [2026.3 上海市区常见鸟种的变迁](/resources/lectures/202603)
 
@@ -20,9 +20,11 @@ _**(Updated to 2026.6)**_
 
 [2026.7 鸟喙的多样性以及其合理性](/resources/lectures/202607)
 
-[//]: list links here！
+[2026.8 飞羽：排布与功能](/resources/lectures/202608)
 
 ### Useful links
+
+#### Reddit
 
 Go join:
 
@@ -36,13 +38,8 @@ And be careful with:
 
 [r/BirdsArentReal](https://www.reddit.com/r/BirdsArentReal/)
 
-### Q&A
+#### For data:
 
-[//]: one link to another markdown
+[中国观鸟记录中心](https://www.birdreport.cn/)
 
-<div style= "display:none">
-## Links and Images
-
-[Link to Google](https://google.com)
-
-![](https://archlinux.org/static/logos/archlinux-logo-light-1200dpi.png){: width="50%"}
+[Ebird](https://ebird.org/home)
