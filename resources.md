@@ -24,7 +24,7 @@ _**(Updated to 2026.8)**_
 
 ### Weird bird photos
 
-[Updated to 2026.10.28](/resources/Weirdbirds)
+[Updated to 2026.10.28](/resources/weirdbirds)
 
 ### Useful links
 
