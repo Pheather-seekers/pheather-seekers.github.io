@@ -17,6 +17,7 @@ var imgs = [
 { src: 'https://github.com/Pheather-seekers/photos/blob/main/4.webp?raw=true', weight: 1 },
 { src: 'https://github.com/Pheather-seekers/photos/blob/main/5.webp?raw=true', weight: 1 },
 { src: 'https://github.com/Pheather-seekers/photos/blob/main/6.webp?raw=true', weight: 1 },
+{ src: 'https://github.com/Pheather-seekers/photos/blob/main/7.png?raw=true', weight: 1 },
 ];
 var totalWeight = 0;
 for (var i = 0; i < imgs.length; i++) {
