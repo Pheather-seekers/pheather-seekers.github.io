@@ -22,6 +22,10 @@ _**(Updated to 2026.8)**_
 
 [2026.8 飞羽：排布与功能](/resources/lectures/202608)
 
+### Weird bird photos
+
+[Updated to 2026.10.28](/resources/Weirdbirds)
+
 ### Useful links
 
 #### Reddit
