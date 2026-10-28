@@ -30,13 +30,13 @@ permalink: /resources/weirdbirds/
 
 ### 麻雀
 
-![](https://github.com/Pheather-seekers/photos/blob/main/Fun-4.png?raw=true)
+![](https://github.com/Pheather-seekers/photos/blob/main/Fun-4.jpg?raw=true)
 
 只是麻雀在收集鹅毛筑巢）
 
 ### 白眉姬鹟
 
-![](https://github.com/Pheather-seekers/photos/blob/main/Fun-5.png?raw=true)
+![](https://github.com/Pheather-seekers/photos/blob/main/Fun-5.jpgg?raw=true)
 
 对的，芒果总是长在树上
 
