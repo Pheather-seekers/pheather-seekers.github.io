@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lecture 2026.3 上海市区常见鸟种的变迁
+title: Weird Birds
 permalink: /resources/weirdbirds/
 ---
 
