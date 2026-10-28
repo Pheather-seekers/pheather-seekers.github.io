@@ -24,7 +24,7 @@ permalink: /resources/weirdbirds/
 
 ### 普通翠鸟
 
-![](/https://github.com/Pheather-seekers/photos/blob/main/Fun-3.png?raw=true)
+![](https://github.com/Pheather-seekers/photos/blob/main/Fun-3.png?raw=true)
 
 噎住的小翠
 
@@ -36,7 +36,7 @@ permalink: /resources/weirdbirds/
 
 ### 白眉姬鹟
 
-![](https://github.com/Pheather-seekers/photos/blob/main/Fun-5.jpgg?raw=true)
+![](https://github.com/Pheather-seekers/photos/blob/main/Fun-5.jpg?raw=true)
 
 对的，芒果总是长在树上
 
