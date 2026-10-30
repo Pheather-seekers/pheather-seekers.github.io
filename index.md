@@ -3,9 +3,9 @@ layout: home
 title: Home
 ---
 
-Welcome to the website for the **Pheather seekers**.
+Welcome to the website for the **PHeather seekers**.
 
-Pheather seekers, as a birdwatching club, found in October, 2025, focuses on all sort of things related to birds.
+PHeather seekers, as a birdwatching club, found in October, 2025, focuses on all sort of things related to birds.
 
 ## Schedule of club activities
 

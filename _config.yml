@@ -1,4 +1,4 @@
-title: Pheather seekers
+title: PHeather seekers
 email: example@example.com
 description: >-
   An example site showcasing the features of the Practical Club Website Template.
@@ -16,6 +16,7 @@ minima:
   nav_pages:
     - index.md
     - resources.md
+    - ph-ormula.md
   social_links:
     - title: GitHub
       icon: github
