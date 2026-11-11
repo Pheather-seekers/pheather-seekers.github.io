@@ -24,9 +24,7 @@ _**(Updated to 2026.8)**_
 
 [2026.10 鸟类的过冬不止迁徙](/resources/lectures/202610)
 
-### Weird bird photos
-
-[Updated to 2026.11.3](/resources/weirdbirds/)
+### [Weird bird photos](/resources/weirdbirds/)
 
 ### Useful links
 
