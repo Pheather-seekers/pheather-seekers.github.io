@@ -16,6 +16,7 @@ minima:
   nav_pages:
     - index.md
     - resources.md
+    - ph-ormula.md
   social_links:
     - title: GitHub
       icon: github
