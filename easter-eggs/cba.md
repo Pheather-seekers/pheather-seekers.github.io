@@ -6,6 +6,16 @@ permalink: /easter-eggs/cba/
 
 # **Crazy Bird Aficionados**
 
+<div>
+<a href="https://reddit.com/r/AlwaysANightHeron/comments/1xpvw9p/its_ok_to_be_a_weird_little_guy_a_black_crowned/19s9v40jt7upv/">
+  <blockquote>
+    <p>There is a thin semantic line between weird and beautiful.</p>
+    <p>That line is covered in night herons</p>
+    <p>u/Lich_Apologist</p>
+  </blockquote>
+</a>
+</div>
+
 <img id="night-heron-img" src="https://github.com/Pheather-seekers/photos/blob/main/1.webp?raw=true" alt="" style="width:85%" />
 
 <script>
