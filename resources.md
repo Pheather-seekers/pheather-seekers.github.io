@@ -38,6 +38,8 @@ Go join:
 
 [r/Ornithology](https://www.reddit.com/r/Ornithology/)
 
+[r/BirdButts](https://www.reddit.com/r/BirdButts/)
+
 And be careful with:
 
 [r/BirdsArentReal](https://www.reddit.com/r/BirdsArentReal/)
